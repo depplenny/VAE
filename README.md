@@ -9,5 +9,4 @@ The model will be able to classify images as either faces or not faces. Hence I 
 
 ![](/img/2.PNG)
 
-
-![](/img/3.PNG)
+![](/img/4.PNG)
