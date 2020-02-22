@@ -7,7 +7,7 @@ The model will be able to classify images as either faces or not faces. Hence I 
 * [ImageNet](http://www.image-net.org/). Many images across many different categories.
 ## Variational autoencoder (VAE) to generate data with desired feature 
 
-![](https://deeplearningfromscratch.files.wordpress.com/2018/07/vae_complete.png?w=1140)
+![](/img/2.PNG)
 
 
 ![](/img/1.PNG)
