@@ -11,7 +11,7 @@ The model will be able to classify images as either faces or not faces. Hence I 
 
 
 Encoder outputs mean and  diagonal covariance vector
-$$\mu=\mu(x,\phi), \quad \Sigma=\Sigma(x,\phi)=diag(\sigma_1^2, \sigma_2^2, ...),$$
+![\mu=\mu(x,\phi), \quad \Sigma=\Sigma(x,\phi)=diag(\sigma_1^2, \sigma_2^2, ...),](https://render.githubusercontent.com/render/math?math=%5Cmu%3D%5Cmu(x%2C%5Cphi)%2C%20%5Cquad%20%5CSigma%3D%5CSigma(x%2C%5Cphi)%3Ddiag(%5Csigma_1%5E2%2C%20%5Csigma_2%5E2%2C%20...)%2C)
 Then a latent vector is calculated with the help of unit Gaussian distribution
 $$z=\mu+\Sigma^{1/2} \odot \epsilon,$$
 Decder reconstructs the input
