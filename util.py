@@ -65,3 +65,4 @@ def plot_sample(x,vae,idx=0):
     plt.axis('off')
 
     plt.show()
+    
